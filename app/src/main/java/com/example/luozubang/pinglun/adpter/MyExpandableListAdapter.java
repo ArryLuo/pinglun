@@ -29,7 +29,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
  * @author arryluo
  */
 public class MyExpandableListAdapter extends BaseExpandableListAdapter {
-    //private List<CommentDetailBean> commentBeanList;
+
    private  List<AppComment> appComments;
     private Context context;
 
